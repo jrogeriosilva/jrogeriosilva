@@ -32,10 +32,9 @@ I am a technology enthusiast who is always willing to learn and work on a variet
 
 ### More about me...
 
-- 🌱 I’m currently learning FrontEnd Development 🚀.
-- 👯 I’m looking to collaborate on any Open Source Project involving the Javascript Stack.
-- 💻 I have worked on Shell Scripting, C++, AWS, Docker and Ansible.
-- ⚡ Fun fact: I make scripts to do boring tasks 🤣. . .
+- 🌱 I’m currently learning fulltasck Development, using SpringBoot + Angular.js. 🚀
+- 💻 I have worked with AWS, Docker and Ansible.
+- ⚡ Fun fact: I make Shell Scripts to do boring tasks 🤣...
 
 ### Languages and Tools:
 
