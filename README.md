@@ -1,4 +1,5 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=jrogeriosilva.jrogeriosilva)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jrogeriosilva&show_icons=true&hide_border=true)
 
 ### Hello Earthlings 👋
