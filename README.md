@@ -6,7 +6,7 @@
 
 
 I am pursuing a Bachelor's degree in _Information Technology_ from [Federal University of Rio Grande do Norte](https://ufrn.br/) 🏛.
-I’m a technology enthusiast who is always willing to learn and work on a variety of technologies.💡 - I love exploring technologies and using them to solve real life problems ✨. In addition, I also love teaching 👨🏻‍💻. I am currently fulltasck Development, using SpringBoot + Angular.js. 🕸️.
+I’m a technology enthusiast who is always willing to learn and work on a variety of technologies.💡 - I love exploring technologies and using them to solve real life problems ✨. In addition, I also love teaching 👨🏻‍💻. I am currently working in fullstack Development, using SpringBoot + Angular.js. 🕸️.
 
 ### Connect with me...
 
