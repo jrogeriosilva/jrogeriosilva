@@ -27,7 +27,7 @@ I’m a technology enthusiast who is always willing to learn and work on a varie
 </a>
 
 <a href="https://twitter.com/jrogerio">
-  <img align="left" alt="Pavan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Rogério's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 <br />
