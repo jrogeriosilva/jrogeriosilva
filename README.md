@@ -1,39 +1,48 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=jrogeriosilva.jrogeriosilva)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=jrogeriosilva&show_icons=true&hide_border=true)
+Hi 👋 My name is José Rogério
+=============================
 
-### Hello Earthlings 👋
+Backend Developer
+-----------------
+
+I'm a Information Technology Student from Federal University of Rio Grande do Norte 🏛, Brazil . Also, i'm a technology enthusiast who is always willing to learn and work on a variety of technologies.💡 - I love exploring technologies and using them to solve real life problems ✨. In addition, I also love teaching 👨🏻‍💻. Currently working in Backend Development.
+
+* 🌍  I'm based in Brazil
+* 🧠  I'm learning NestJS
+* ⚡  i'm a infosec enthusiast
+
+<a href="https://www.twitter.com/jrogerio" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/jrogerio?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+
+### Skills
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+</p>
 
 
-I am pursuing a Bachelor's degree in _Information Technology_ from [Federal University of Rio Grande do Norte](https://ufrn.br/) 🏛.
-I’m a technology enthusiast who is always willing to learn and work on a variety of technologies.💡 - I love exploring technologies and using them to solve real life problems ✨. In addition, I also love teaching 👨🏻‍💻. I am currently working in fullstack Development, using SpringBoot + Angular.js. 🕸️.
+### Socials
 
-### Connect with me...
+<p align="left"> <a href="https://www.github.com/jrogeriosilva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/jrogerio.s" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/joserogeriosilva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/jrogerio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<a href="https://linkedin.com/in/jrogeriosilva">
-  <img align="left" alt="Rogério's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/jrogeriosilva">
-  <img align="left" alt="Rogério's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/joserogerio">
-  <img align="left" alt="Rogério's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://instagram.com/jrogerio.s/">
-  <img align="left" alt="Rogério's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/joserogeriosilva/">
-  <img align="left" alt="Rogério's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+### Badges
 
-<a href="https://twitter.com/jrogerio">
-  <img align="left" alt="Rogério's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+<b>My GitHub Stats</b>
 
-<br />
+<a href="http://www.github.com/jrogeriosilva"><img src="https://github-readme-stats.vercel.app/api?username=jrogeriosilva&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jrogeriosilva's GitHub stats" /></a>
 
-### More about me...
-
-- 💻 I have worked with AWS, Docker and Ansible.
-- ⚡ Fun fact: I make Shell Scripts to do boring tasks 🤣...
-
+<a href="https://github.com/jrogeriosilva" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrogeriosilva&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
