@@ -6,11 +6,18 @@ Hi 👋 My name is José Rogério
 Backend Developer
 -----------------
 
-I'm a Information Technology Student from Federal University of Rio Grande do Norte 🏛, Brazil . Also, i'm a technology enthusiast who is always willing to learn and work on a variety of technologies.💡 - I love exploring technologies and using them to solve real life problems ✨. In addition, I also love teaching 👨🏻‍💻. Currently working in Backend Development.
+I'm a passionate Backend Developer based in Brazil.
+As a technology enthusiast, I’m always eager to learn and work with diverse technologies to tackle real-world challenges. 💡✨
+I enjoy exploring new tech, solving problems, and sharing knowledge through teaching.
 
-* 🌍  I'm based in Brazil
-* 🧠  I'm learning NestJS
-* ⚡  i'm a infosec enthusiast
+
+📌 What I’m up to:
+
+* 🧠  Specializing in Backend Development
+* ⚡  Continuously improving and growing my skills in software development
+
+Feel free to connect or check out my projects! 🚀
+
 
 <a href="https://www.twitter.com/jrogerio" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/jrogerio?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -36,7 +43,8 @@ src="https://img.shields.io/twitter/follow/jrogerio?logo=twitter&style=for-the-b
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/jrogeriosilva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/jrogerio.s" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/joserogeriosilva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/jrogerio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/jrogeriosilva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/joserogeriosilva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/jrogerio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
